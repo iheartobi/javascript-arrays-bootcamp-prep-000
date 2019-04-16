@@ -8,5 +8,5 @@ var chocolateBars = [
 var addElementToBeginningOfArray(array, element) = [
   ]
   
-var destructivelyAddElementToBeginningOfArray(array, element) = [ array.push(element)
+var destructivelyAddElementToBeginningOfArray(array, element) = [ array.unshift("element")
   ]
